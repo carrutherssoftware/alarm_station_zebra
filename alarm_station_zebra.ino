@@ -7,7 +7,7 @@
 
 /*******************************************************
 * Alarm Station Zebra                                  *
-* a LinkIt One Remote Alarm System                     *
+* a LinkIt One remote alarm system                     *
 * Copyright © 2015 Andrew Carruthers                   *
 * All rights reserved. Provided 'AS IS' under the      *
 * 'simplified BSD license'. Essentially, leave my      *
